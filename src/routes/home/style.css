@@ -13,7 +13,8 @@
 
 .image {
 	height: 30vw;
-	background-image: url(/assets/profile.jpg);
+	/* change image home page */
+	background-image: url(/assets/profile.png); 
 	background-size: cover;
 	background-position: center;
 }
